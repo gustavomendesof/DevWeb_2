@@ -1,0 +1,39 @@
+.top
+{
+    width: 100%;
+    height: auto;
+    background-color: #353335;
+}
+
+.nav-link{
+    color: white;
+}
+
+a:hover.nav-link {
+    color: #b80017;
+}
+
+.fa-facebook
+{
+    color: white;
+}
+.fa-instagram
+{
+    color: white;
+}
+.fa-linkedin
+{
+    color: white;
+}
+
+.icones
+{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .icones {
+        text-align: center;
+    }
+}
